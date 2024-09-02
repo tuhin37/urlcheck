@@ -1,0 +1,7 @@
+Makefile
+*.csv
+build
+.git
+.gitignore
+.dockerignore
+**/*Dockerfile
