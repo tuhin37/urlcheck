@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define the URL of the binary
-URL="https://github.com/tuhin37/urlcheck/blob/main/bin/urlcheck-darwin-amd64?raw=true"
+URL="https://github.com/tuhin37/urlcheck/blob/main/bin/./urlcheck-linux-amd64?raw=true"
 
 # Define the target installation directory
 INSTALL_DIR="/usr/local/bin"
